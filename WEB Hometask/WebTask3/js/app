@@ -1,5 +1,0 @@
-function app() {
-    let name = document.getElementById("nameElement").value
-    document.getElementById("result").innerText = "Ваш звать " + name ;
-    document.getElementById("nameElement").value = '';
-}
